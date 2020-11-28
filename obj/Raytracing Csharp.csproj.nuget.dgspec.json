@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj": {}
+  },
+  "projects": {
+    "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj",
+        "projectName": "Raytracing Csharp",
+        "projectPath": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj",
+        "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
+        "outputPath": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

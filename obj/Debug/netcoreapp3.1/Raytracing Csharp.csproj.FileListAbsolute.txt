@@ -1,0 +1,13 @@
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.exe
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.csprojAssemblyReference.cache
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.AssemblyInfoInputs.cache
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.AssemblyInfo.cs
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.deps.json
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.runtimeconfig.json
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.runtimeconfig.dev.json
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.dll
+E:\A_Projekte\VisualStudio\Raytracing Csharp\bin\Debug\netcoreapp3.1\Raytracing Csharp.pdb
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.csproj.CoreCompileInputs.cache
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.dll
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.pdb
+E:\A_Projekte\VisualStudio\Raytracing Csharp\obj\Debug\netcoreapp3.1\Raytracing Csharp.genruntimeconfig.cache
