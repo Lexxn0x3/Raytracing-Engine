@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj": {}
+    "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\Raytracing Csharp.csproj": {}
   },
   "projects": {
-    "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj": {
+    "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\Raytracing Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj",
+        "projectUniqueName": "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\Raytracing Csharp.csproj",
         "projectName": "Raytracing Csharp",
-        "projectPath": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj",
+        "projectPath": "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\Raytracing Csharp.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-        "outputPath": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\obj\\",
+        "outputPath": "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"

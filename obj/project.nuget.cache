@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2C4d4DJ4iuXRbk8et96aLryTLeND0fPU8FFlzCykSS2PoldO+OyQ2GoVPZFz9MDJNaiyX9RfXHPXnOItEuX8A==",
+  "dgSpecHash": "vfmiWWzT2kjTKu565CoybjWYMyAfBhX8erR00FCmWjYj1BbqaJ3I9ep1yVFyCDRHKfRbCok5fz7k1bhrVLqPRQ==",
   "success": true,
-  "projectFilePath": "E:\\A_Projekte\\VisualStudio\\Raytracing Csharp\\Raytracing Csharp.csproj",
+  "projectFilePath": "E:\\A_Projekte\\VisualStudio\\Raytracing-Engine\\Raytracing Csharp.csproj",
   "expectedPackageFiles": [
     "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
